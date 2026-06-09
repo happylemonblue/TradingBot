@@ -1,0 +1,7 @@
+bot_config.json
+watchlist.json
+signals_history.json
+trading_bot.log
+__pycache__/
+venv/
+*.pyc
