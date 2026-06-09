@@ -1,0 +1,5 @@
+{
+  "signal_threshold": 0.85,
+  "supertrend_atr_period": 10,
+  "supertrend_multiplier": 3.0
+}
