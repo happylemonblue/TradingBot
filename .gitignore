@@ -4,4 +4,4 @@ signals_history.json
 trading_bot.log
 __pycache__/
 venv/
-*.pyc
+*.pyctrading_bot.log 
